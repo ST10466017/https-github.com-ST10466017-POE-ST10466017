@@ -22,4 +22,6 @@ Version 0-11: Added Insults
 
 Version 0-12: Added more cyber security tips 
 
-Version 0-13: Added 2 dialogue options 
+Version 0-13: Added 2 dialogue options
+
+Version 0-14 : i gave up
