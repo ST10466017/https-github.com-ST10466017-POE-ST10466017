@@ -24,4 +24,6 @@ Version 0-12: Added more cyber security tips
 
 Version 0-13: Added 2 dialogue options
 
-Version 0-14 : i gave up
+Version 0-14: had to create a whole new project
+
+Version 0-15 : i gave up
